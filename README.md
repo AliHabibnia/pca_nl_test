@@ -1,8 +1,6 @@
 # pca_nl_test
 A Nonlinearity Test for Principal Component Analysis
 
-(( A Nonlinearity Test for Principal Component Analysis ))
-
 ** Attached MATLAB code is developed to test whether the underlying structure within the recorded data is linear or nonlinear.
 
 Developers:
