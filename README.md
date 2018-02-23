@@ -21,7 +21,6 @@ Files:
 * Core (related) function: pca_nl_core_test.m
 * Demo: Demo.m
 * Otimization functions: f_1.m and f_2.m
-* Reference papers: Ref_article_1.pdf, Ref_article_1.pdf
 * README: readme (this file)
 
 ** Copyright 2018
