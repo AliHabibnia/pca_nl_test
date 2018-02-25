@@ -1,7 +1,7 @@
 # pca_nl_test
 A Nonlinearity Test for Principal Component Analysis
 
-** Attached MATLAB code is developed to test whether the underlying structure within the recorded data is linear or nonlinear.
+** Attached MATLAB code is developed to test whether the underlying structure within the recorded data is linear or nonlinear. The nonlinearity measure introduced in Kruger et al (2005) performs a multivariate analysis assessing the underlying relationship within a given variable set by dividing the data series into smaller regions, calculating the sum of the discarded eigenvalues and the accuracy bounds of them for each region and then benchmarking them against each other. This can help researchers to better define the nature of the relationship among their data series and to utilize linear and nonlinear PCA methods in a more effective fashion.
 
 Developers:
                Dr. Ali Habibnia
